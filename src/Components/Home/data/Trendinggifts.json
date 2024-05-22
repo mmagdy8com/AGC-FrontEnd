@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Friendy mobile",
+    "category": "Gaming",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift1.png"
+  },
+  {
+    "id": 2,
+    "title": "Call of Duty",
+    "category": "Gaming",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift6.png"
+  },
+  {
+    "id": 3,
+    "title": "Yalla Ludo",
+    "category": "Google play",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift3.png"
+  },
+  {
+    "id": 4,
+    "title": "STC quicknet",
+    "category": "Mobile & Data",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift4.png"
+  },
+  {
+    "id": 5,
+    "title": "Razer gold",
+    "category": "Gaming",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift5.png"
+  },
+  {
+    "id": 6,
+    "title": "Ludo club",
+    "category": "Google play",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift6.png"
+  },
+  {
+    "id": 7,
+    "title": "Redbull",
+    "category": "Shopping",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift7.png"
+  },
+  {
+    "id": 8,
+    "title": "iTunes",
+    "category": "Subscriptions",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift6.png"
+  },
+  {
+    "id": 9,
+    "title": "STC quicknet",
+    "category": "Mobile & Data",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift6.png"
+  },
+  {
+    "id": 10,
+    "title": "Yalla Ludo",
+    "category": "Google play",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift3.png"
+  },
+  {
+    "id": 11,
+    "title": "STC quicknet",
+    "category": "Mobile & Data",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift4.png"
+  },
+  {
+    "id": 12,
+    "title": "Razer gold",
+    "category": "Gaming",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift5.png"
+  },
+  {
+    "id": 13,
+    "title": "Ludo club",
+    "category": "Google play",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift6.png"
+  },
+  {
+    "id": 14,
+    "title": "Redbull",
+    "category": "Shopping",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift7.png"
+  },
+  {
+    "id": 15,
+    "title": "iTunes",
+    "category": "Subscriptions",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift6.png"
+  },
+  {
+    "id": 16,
+    "title": "Redbull",
+    "category": "Shopping",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift7.png"
+  },
+  {
+    "id": 17,
+    "title": "Yalla Ludo",
+    "category": "Google play",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift3.png"
+  },
+  {
+    "id": 18,
+    "title": "STC quicknet",
+    "category": "Mobile & Data",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift4.png"
+  },
+  {
+    "id": 19,
+    "title": "Razer gold",
+    "category": "Gaming",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift5.png"
+  },
+  {
+    "id": 20,
+    "title": "Ludo club",
+    "category": "Google play",
+    "price": "120 USD",
+    "image": "/assets/Trendinggiftcard/gift6.png"
+  }
+]

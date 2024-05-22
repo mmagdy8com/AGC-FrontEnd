@@ -1,0 +1,25 @@
+/* Add this CSS to your component's stylesheet or a global stylesheet */
+.Cryptocurrency-list a.selected {
+  background-color: #e5e5e5;
+  color: #fff;
+  border-radius: 4px;
+  font-weight: bold;
+  padding: 10px 2px;
+}
+
+.checkoutBtn {
+  background: var(
+    --linear-2,
+    linear-gradient(135deg, #87aeb6 0%, #2f6977 100%)
+  ) !important;
+  border: none !important;
+  padding: 10px 45px !important;
+}
+
+.paynoWBtn {
+  background: var(
+    --linear-2,
+    linear-gradient(135deg, #87aeb6 0%, #2f6977 100%)
+  ) !important;
+  border: none !important;
+}

@@ -1,0 +1,12 @@
+.banner-links {
+  padding-left: 0px !important;
+}
+
+.contactBtn {
+  background: var(
+    --linear-2,
+    linear-gradient(135deg, #87aeb6 0%, #2f6977 100%)
+  ) !important;
+  border: none !important;
+  padding: 10px 30px !important;
+}

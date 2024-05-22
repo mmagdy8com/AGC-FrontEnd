@@ -1,0 +1,88 @@
+.form-label {
+  color: #242424 !important;
+  font-size: 18px !important;
+  font-weight: 500 !important;
+  margin-bottom: 10px !important;
+}
+
+.form-control {
+  border-radius: 16px !important;
+  border: 1px solid #242424 !important;
+  background: #fff !important;
+  padding: 12px 24px !important;
+}
+
+.form-control-contact {
+  width: 100%;
+  border-radius: 16px !important;
+  border: 1px solid #242424 !important;
+  background: #fff !important;
+  padding: 12px 52px !important;
+}
+
+.form-forgot {
+  color: #3d469a;
+  display: block;
+  text-align: end;
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 18px;
+}
+
+.active {
+  /* width: 60% !important; */
+  text-decoration: none !important;
+}
+
+.loginBtn {
+  color: white !important;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.active.form-forgot {
+  text-decoration: none !important;
+}
+
+.login-form-inner {
+  margin-top: 60px !important;
+}
+
+.login-form-inner a {
+  text-decoration: none !important;
+}
+
+.login-form-inner a.btn.btn-primary {
+  width: 70% !important;
+  text-decoration: none !important;
+  padding: 12px !important;
+}
+
+.login-form-inner a.btn.btn-primary-2 {
+  width: 70% !important;
+  text-decoration: none !important;
+  border: none !important;
+  padding: 2px !important;
+}
+
+.cntBtn1 {
+  padding: 10px !important;
+  border-radius: 19px !important;
+  background: var(
+    --linear-2,
+    linear-gradient(135deg, #87aeb6 0%, #2f6977 100%)
+  ) !important;
+  border: 1px solid #47737d !important;
+}
+
+.active span {
+  text-decoration: none !important;
+}
+
+.eye {
+  cursor: pointer;
+}
+
+.form-forgot {
+  cursor: pointer;
+}

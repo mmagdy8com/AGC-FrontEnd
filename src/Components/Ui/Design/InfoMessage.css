@@ -1,0 +1,9 @@
+.infoMessage {
+  background-color: #afe4f0;
+  border: 1px solid #a7dce8;
+  padding: 0.7rem 2rem;
+  border-radius: 1rem;
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+}

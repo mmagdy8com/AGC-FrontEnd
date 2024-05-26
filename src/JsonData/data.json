@@ -1,0 +1,166 @@
+{
+  "cartData": [
+    {
+      "id": 1,
+      "image": "/assets/Trendinggiftcard/gift4.png",
+      "title": "STC quicknet",
+      "category": "Gaming",
+      "price": 120,
+      "VAT": 0.2,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "image": "/assets/Trendinggiftcard/gift8.png",
+      "title": "iTunes",
+      "category": "Subscriptions",
+      "price": 120,
+      "VAT": 0.2,
+      "quantity": 1
+    }
+  ],
+  "similiarProduct": [
+    {
+      "id": 1,
+      "image": "/assets/Trendinggiftcard/gift7.png",
+      "title": "Redbull",
+      "category": "Shopping",
+      "price": 120
+    },
+    {
+      "id": 2,
+      "image": "/assets/Trendinggiftcard/gift3.png",
+      "title": "Yalla Ludo",
+      "category": "Google Play",
+      "price": 120
+    },
+    {
+      "id": 3,
+      "image": "/assets/Trendinggiftcard/gift6.png",
+      "title": "Ludo Club",
+      "category": "Google Play",
+      "price": 120
+    },
+    {
+      "id": 4,
+      "image": "/assets/Trendinggiftcard/gift8.png",
+      "title": "iTunes",
+      "category": "Subscriptions",
+      "price": 120
+    }
+  ],
+  "cryptoCoins": [
+    {
+      "id": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "/assets/Crypto/Bitcoin.svg"
+    },
+    {
+      "id": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "image": "/assets/Crypto/Ethereum.svg"
+    },
+    {
+      "id": 3,
+      "name": "Binance Coin",
+      "symbol": "BNB",
+      "image": "/assets/Crypto/Binance-Coin.svg"
+    },
+    {
+      "id": 4,
+      "name": "Shiba INU Coin",
+      "symbol": "SHIB",
+      "image": "/assets/Crypto/Shiba-INU-Coin.svg"
+    }
+  ],
+  "profileList": [
+    {
+      "id": 1,
+      "key": "PersonalInfo",
+      "name": "Personal Information",
+      "image": "/assets/Style/info-user.svg"
+    },
+    {
+      "id": 2,
+      "key": "Favorites",
+      "name": "My Favorites",
+      "image": "/assets/Style/like.svg"
+    },
+    {
+      "id": 3,
+      "key": "History",
+      "name": "Order History",
+      "image": "/assets/Style/info-history.svg"
+    },
+    {
+      "id": 4,
+      "key": "ChangePassword",
+      "name": "Change Password",
+      "image": "/assets/Style/info-user.svg"
+    },
+    {
+      "id": 5,
+      "key": "SignOut",
+      "name": "Sign Out",
+      "image": "/assets/Style/info-logout.svg"
+    }
+  ],
+  "wishList": [
+    {
+      "title": "Call of Duty",
+      "category": "Gaming",
+      "price": "120 USD",
+      "imageSrc": "gift5.png",
+      "likeSrc": "like.svg",
+      "giftCardIconSrc": "gift-card-icon.svg",
+      "link": ""
+    },
+    {
+      "title": "Yalla Ludo",
+      "category": "Google play",
+      "price": "120 USD",
+      "imageSrc": "gift3.png",
+      "likeSrc": "like.svg",
+      "giftCardIconSrc": "gift-card-icon.svg",
+      "link": ""
+    },
+    {
+      "title": "STC quicknet",
+      "category": "Mobile & Data",
+      "price": "120 USD",
+      "imageSrc": "gift4.png",
+      "likeSrc": "like.svg",
+      "giftCardIconSrc": "gift-card-icon.svg",
+      "link": ""
+    },
+    {
+      "title": "Call of Duty",
+      "category": "Gaming",
+      "price": "120 USD",
+      "imageSrc": "gift8.png",
+      "likeSrc": "like.svg",
+      "giftCardIconSrc": "gift-card-icon.svg",
+      "link": ""
+    },
+    {
+      "title": "Yalla Ludo",
+      "category": "Google play",
+      "price": "120 USD",
+      "imageSrc": "gift3.png",
+      "likeSrc": "like.svg",
+      "giftCardIconSrc": "gift-card-icon.svg",
+      "link": ""
+    },
+    {
+      "title": "STC quicknet",
+      "category": "Mobile & Data",
+      "price": "120 USD",
+      "imageSrc": "gift4.png",
+      "likeSrc": "like.svg",
+      "giftCardIconSrc": "gift-card-icon.svg",
+      "link": ""
+    }
+  ]
+}

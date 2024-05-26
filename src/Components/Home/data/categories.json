@@ -1,0 +1,26 @@
+[
+     {
+      "name": "Mobile & Data",
+      "imageSrc": "categories-1"
+    },
+    {
+      "name": "Subscriptions",
+      "imageSrc": "categories-2"
+    },
+    {
+      "name": "Shopping",
+      "imageSrc": "categories-3"
+    },
+    {
+      "name": "Google Play",
+      "imageSrc": "categories-4"
+    },
+    {
+      "name": "Playstation",
+      "imageSrc": "categories-5"
+    },
+    {
+      "name": "Gaming",
+      "imageSrc": "categories-6"
+    }
+]

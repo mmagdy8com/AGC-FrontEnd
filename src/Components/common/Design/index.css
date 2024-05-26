@@ -1,0 +1,137 @@
+.header {
+  border-bottom: 1px solid #edecec !important;
+}
+
+.user-inner p {
+  margin-bottom: 0px;
+}
+
+/* .active {
+  width: 100% !important;
+} */
+
+.footer-inner ul {
+  padding-left: 0px !important;
+}
+
+.footer-inner .user-inner {
+  gap: 10px;
+  margin-top: 16px;
+  padding: 8px 8px 6px 8px;
+  border-radius: 8px;
+  background-color: #e7fbff;
+  color: #85a3a9;
+  width: fit-content;
+}
+
+.mega-col {
+  width: 20% !important;
+}
+
+.top-right-bar {
+  margin-bottom: 0px !important;
+}
+
+.account a {
+  text-decoration: none !important;
+}
+
+.checkout-cart-text ul {
+  padding-left: 0px !important;
+}
+
+.checkout-cart-text-btn li {
+  text-align: center !important;
+}
+
+.checkout-cart ul {
+  padding-left: 0px !important;
+}
+
+.add-top-cart span {
+  font-size: 13px !important;
+  font-weight: 500 !important;
+  width: 20px !important;
+  height: 20px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  border-radius: 50% !important;
+  color: #fff !important;
+  background-color: #45727c !important;
+  border: 1px solid #fff !important;
+  top: -8px !important;
+  right: -11px !important;
+}
+
+.gift_card_logo {
+  height: 100%;
+  width: 100%;
+  max-width: 182px;
+}
+
+.social_media_icon {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 3rem;
+}
+
+.header-icon {
+  border: none;
+  background-color: white;
+}
+
+.subscribeField {
+  width: 40%;
+}
+
+.subsField .news-letter-form .form-control {
+  background: transparent !important;
+  color: #fff !important;
+  border-right: none !important;
+  border-radius: 16px 0 0 16px !important;
+  border: 1px solid #fff !important;
+}
+
+.subsField .news-letter-form .form-control::placeholder {
+  color: #fff !important;
+}
+
+.subsField .news-letter-form .btn.homesignupBtn.subscribesignupBtn {
+  background: #fff !important;
+  color: #000 !important;
+}
+
+.subscribesignupBtn {
+  color: white !important;
+}
+
+.footer-inner a {
+  color: white;
+}
+
+.mobileViewLink {
+  color: #45727c !important;
+}
+
+.mobileViewText {
+  color: #45727c !important;
+}
+
+.gift-card-logo-mobileview {
+  width: 170px;
+  height: 100px;
+}
+
+/* .subscribesignupBtn {
+  background-color: white !important;
+  color: blue !important;
+  width: 30%;
+}
+
+.subscribeField input {
+  background-color: #3e3d8f !important;
+  color: white !important;
+} */

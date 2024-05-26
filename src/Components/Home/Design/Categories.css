@@ -1,0 +1,16 @@
+.categories__card {
+  position: relative;
+  overflow: hidden;
+}
+
+.categories__image {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* opacity: 0.3; */
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  background-size: cover;
+}
